@@ -21,11 +21,11 @@ This program inputs a char array and prints it.
 This C++ program calculates the length of a C-style string by iterating through the characters using a pointer until it reaches the null terminator ('\0'). It then subtracts the starting address from the ending address to determine the length of the string and displays it. This program demonstrates a basic approach to determining the length of a string.
 
 <div align="left">
-  <img src="strptr0" width="17.5%" height="17.5%"/>
+  <img src="strptr0.png" width="17.5%" height="17.5%"/>
 </div><br/>
 
 4] [Length calci advanced](strpointer2.cpp)
 
 <div align="left">
-  <img src="strptr1" width="17.5%" height="17.5%"/>
+  <img src="strptr1.png" width="17.5%" height="17.5%"/>
 </div><br/>
